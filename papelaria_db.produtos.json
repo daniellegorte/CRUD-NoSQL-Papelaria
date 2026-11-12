@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "6af5da5bd68ef6e1397e936f"
+  },
+  "codigo_produto": "PAP001",
+  "nome": "Lápis",
+  "categoria": "Escrita",
+  "marca": "Faber Castell",
+  "preco": {
+    "$numberDecimal": "1.50"
+  },
+  "quantidade_estoque": 300,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Preto"
+  ],
+  "fornecedor": {
+    "nome": "Escola de São Paulo",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.8,
+  "descricao": "Lápis grafite preto nº 2."
+},
+{
+  "_id": {
+    "$oid": "6af5daa0d68ef6e1397e9371"
+  },
+  "codigo_produto": "PAP002",
+  "nome": "Borracha",
+  "categoria": "Escolar",
+  "marca": "Faber Castell",
+  "preco": {
+    "$numberDecimal": "2.00"
+  },
+  "quantidade_estoque": 120,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Branco"
+  ],
+  "fornecedor": {
+    "nome": "Prefeitura de SP",
+    "cidade": "São Paulo",
+    "telefone": "11888888888"
+  },
+  "avaliacao": 4.3,
+  "descricao": "Borracha branca"
+},
+{
+  "_id": {
+    "$oid": "6af5dacdd68ef6e1397e9373"
+  },
+  "codigo_produto": "PAP003",
+  "nome": "Caderno",
+  "categoria": "Cadernos",
+  "marca": "Tilibra",
+  "preco": {
+    "$numberDecimal": "18.90"
+  },
+  "quantidade_estoque": 80,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Azul",
+    "Vermelho",
+    "Preto",
+    "Verde"
+  ],
+  "fornecedor": {
+    "nome": "Prefeitura de SP",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.7,
+  "descricao": "Caderno 10 matérias com capa dura."
+},
+{
+  "_id": {
+    "$oid": "6af5dd91d68ef6e1397e9377"
+  },
+  "codigo_produto": "PAP010",
+  "nome": "Estojo",
+  "categoria": "Acessórios",
+  "marca": "Tilibra",
+  "preco": {
+    "$numberDecimal": "24.90"
+  },
+  "quantidade_estoque": 40,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Preto",
+    "Azul",
+    "Rosa"
+  ],
+  "fornecedor": {
+    "nome": "Prefeitura de SP",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.6,
+  "descricao": "Estojo colorido."
+},
+{
+  "_id": {
+    "$oid": "6af5ddc4d68ef6e1397e9379"
+  },
+  "codigo_produto": "PAP009",
+  "nome": "Marca texto",
+  "categoria": "Escrita",
+  "marca": "Stabilo",
+  "preco": {
+    "$numberDecimal": "7.50"
+  },
+  "quantidade_estoque": 140,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Amarelo",
+    "Verde",
+    "Rosa",
+    "Roxo",
+    "Mangenta"
+  ],
+  "fornecedor": {
+    "nome": "Papel Atacado SP",
+    "cidade": "São Paulo",
+    "telefone": "11888888888"
+  },
+  "avaliacao": 4.8,
+  "descricao": "Caneta marca-texto com tinta neon"
+},
+{
+  "_id": {
+    "$oid": "6af5ddf5d68ef6e1397e937b"
+  },
+  "codigo_produto": "PAP008",
+  "nome": "Papel sulfite A4",
+  "categoria": "Papel",
+  "marca": "Tilibra",
+  "preco": {
+    "$numberDecimal": "32.00"
+  },
+  "quantidade_estoque": 50,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Branco",
+    "Off White",
+    "Rosa"
+  ],
+  "fornecedor": {
+    "nome": "Tilibra",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.9,
+  "descricao": "Kit papel sulfite A4 com 500 folhas."
+},
+{
+  "_id": {
+    "$oid": "6af5de22d68ef6e1397e937d"
+  },
+  "codigo_produto": "PAP007",
+  "nome": "Tesoura infantil",
+  "categoria": "Escolar",
+  "marca": "Faber castel",
+  "preco": {
+    "$numberDecimal": "5.90"
+  },
+  "quantidade_estoque": 60,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Azul",
+    "Rosa",
+    "Verde"
+  ],
+  "fornecedor": {
+    "nome": "Papel Atacado SP",
+    "cidade": "São Paulo",
+    "telefone": "11888888888"
+  },
+  "avaliacao": 4.4,
+  "descricao": "Tesoura escolar sem ponta para crianças"
+},
+{
+  "_id": {
+    "$oid": "6af5de51d68ef6e1397e937f"
+  },
+  "codigo_produto": "PAP006",
+  "nome": "Cola branca líquida",
+  "categoria": "Artes",
+  "marca": "Jambo",
+  "preco": {
+    "$numberDecimal": "6.50"
+  },
+  "quantidade_estoque": 110,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Branco"
+  ],
+  "fornecedor": {
+    "nome": "Jambo",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.6,
+  "descricao": "Cola branca líquida"
+},
+{
+  "_id": {
+    "$oid": "6af5de5ed68ef6e1397e9381"
+  },
+  "codigo_produto": "PAP005",
+  "nome": "Cola branca bastão",
+  "categoria": "Artes",
+  "marca": "Jambo",
+  "preco": {
+    "$numberDecimal": "6.50"
+  },
+  "quantidade_estoque": 110,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Branco"
+  ],
+  "fornecedor": {
+    "nome": "Jambo",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 4.6,
+  "descricao": "Cola branca em bastão"
+},
+{
+  "_id": {
+    "$oid": "6af5de8ad68ef6e1397e9383"
+  },
+  "codigo_produto": "PAP012",
+  "nome": "Régua 30 cm",
+  "categoria": "Escolar",
+  "marca": "Jambo",
+  "preco": {
+    "$numberDecimal": "4.00"
+  },
+  "quantidade_estoque": 95,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-06T12:00:00.000Z"
+  },
+  "cores": [
+    "Dourado",
+    "Prateado"
+  ],
+  "fornecedor": {
+    "nome": "Senninha",
+    "cidade": "São Paulo",
+    "telefone": "11888888888"
+  },
+  "avaliacao": 4.1,
+  "descricao": "Régua de metal 30 centímetros."
+},
+{
+  "_id": {
+    "$oid": "6af5debcc754bdbf06b7503e"
+  },
+  "codigo_produto": "PAP031",
+  "nome": "Lápis colorido",
+  "categoria": "Escrita",
+  "marca": "Faber Castell",
+  "preco": 1.5,
+  "quantidade_estoque": 200,
+  "disponivel": true,
+  "data_cadastro": {
+    "$date": "2026-11-12T15:43:56.406Z"
+  },
+  "cores": [
+    "Arco Íris"
+  ],
+  "fornecedor": {
+    "nome": "Prefeitura de SP",
+    "cidade": "São Paulo",
+    "telefone": "11999999999"
+  },
+  "avaliacao": 5,
+  "descricao": "Lápis de colorir"
+}]
