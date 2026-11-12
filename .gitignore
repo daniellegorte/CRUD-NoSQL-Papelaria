@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Configurações locais
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
